@@ -1,50 +1,27 @@
-# 🌐 Portfolio BUT Réseaux & Télécommunications
+<h2 align="left">Hi 👋! I'm Basile, an 19 years old</h2>
 
-Bienvenue sur mon portfolio GitHub.  
-Ce dépôt regroupe mes différents travaux réalisés durant ma formation en **BUT Réseaux & Télécommunications**.
+###
 
-L’objectif de ce portfolio est de présenter mon évolution, mes compétences développées et les projets que j’ai réalisés à travers les différentes SAÉ.
+<img align="right" height="150" src="https://i.imgflip.com/ae9ran.gif"  />
 
----
+###
 
-## 👤 À propos de moi
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Je suis étudiant en **BUT Réseaux & Télécommunications**.  
-À travers cette formation, j’apprends à comprendre, configurer, sécuriser et analyser des infrastructures informatiques et réseaux.
 
-Ce portfolio me permet de garder une trace organisée de mon travail, mais aussi de montrer concrètement ce que j’ai appris au fil des projets.
 
----
-
-## 📁 Organisation du portfolio
-
-Chaque dossier correspond à une SAÉ.  
-Dans chaque dossier, on retrouve :
-
-- un fichier `README.md` qui explique le travail réalisé ;
-- les fichiers utilisés ou produits pendant la SAÉ ;
-- les preuves de mon travail ;
-- les compétences développées.
-
-```text
-portfolio/
-│
-├── SAE1.01 - Hygiène informatique et cybersécurité/
-│   ├── README.md
-│   └── fichiers du projet
-│
-├── SAE1.02 - Réseaux informatiques/
-│   ├── README.md
-│   └── fichiers du projet
-│
-├── SAE1.03 - Dispositif de transmission/
-│   ├── README.md
-│   └── fichiers du projet
-│
-├── SAE1.04 - Se présenter sur Internet/
-│   ├── README.md
-│   └── fichiers du projet
-│
-└── SAE1.05 - Traitement des données/
-    ├── README.md
-    └── fichiers du projet
+###
