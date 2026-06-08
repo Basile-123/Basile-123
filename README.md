@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/ae9ran.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/eKJ_OjXBjJ0AAAAC/rust-rust-game.gif"  />
 
 ###
 
